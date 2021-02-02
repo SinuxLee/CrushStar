@@ -1,0 +1,31 @@
+{
+  "ver": "2.2.0",
+  "uuid": "227cee3c-d923-44e6-b6aa-1b3f49e2b523",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "subMetas": {
+    "popgame_35": {
+      "ver": "1.0.4",
+      "uuid": "cf0e5b01-168f-4b7e-83e1-46debd578d04",
+      "rawTextureUuid": "227cee3c-d923-44e6-b6aa-1b3f49e2b523",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 298,
+      "height": 90,
+      "rawWidth": 298,
+      "rawHeight": 90,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "ghostGlitter",
+  "_objFlags": 0,
+  "_rawFiles": null,
+  "_duration": 1.0166666666666666,
+  "sample": 60,
+  "speed": 1,
+  "wrapMode": "2",
+  "curveData": {
+    "comps": {
+      "cc.Sprite": {
+        "spriteFrame": [
+          {
+            "frame": 0,
+            "value": {
+              "__uuid__": "15311e6a-b926-4f11-af3a-9cf10c9315b2"
+            }
+          },
+          {
+            "frame": 0.5,
+            "value": {
+              "__uuid__": "7d3f48fa-da63-4322-b28b-4622316265c6"
+            }
+          },
+          {
+            "frame": 1,
+            "value": {
+              "__uuid__": "7d3f48fa-da63-4322-b28b-4622316265c6"
+            }
+          }
+        ]
+      }
+    }
+  },
+  "events": []
+}

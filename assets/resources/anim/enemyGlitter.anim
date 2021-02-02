@@ -1,0 +1,37 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "enemyGlitter",
+  "_objFlags": 0,
+  "_rawFiles": null,
+  "_duration": 1.0166666666666666,
+  "sample": 60,
+  "speed": 1,
+  "wrapMode": "2",
+  "curveData": {
+    "comps": {
+      "cc.Sprite": {
+        "spriteFrame": [
+          {
+            "frame": 0,
+            "value": {
+              "__uuid__": "0b6d551c-2af9-41c3-9ffc-a7de53b9d34e"
+            }
+          },
+          {
+            "frame": 0.5,
+            "value": {
+              "__uuid__": "d8822c04-0032-40da-a999-989297888362"
+            }
+          },
+          {
+            "frame": 1,
+            "value": {
+              "__uuid__": "d8822c04-0032-40da-a999-989297888362"
+            }
+          }
+        ]
+      }
+    }
+  },
+  "events": []
+}

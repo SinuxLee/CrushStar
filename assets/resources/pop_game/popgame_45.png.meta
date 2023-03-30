@@ -1,10 +1,15 @@
 {
-  "ver": "2.2.0",
+  "ver": "2.3.4",
   "uuid": "c4bba480-91e7-418b-9cbe-9e9d0dce3347",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
   "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 146,
+  "height": 125,
+  "platformSettings": {},
   "subMetas": {
     "popgame_45": {
       "ver": "1.0.4",

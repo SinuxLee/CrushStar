@@ -19,9 +19,15 @@
     "Physics",
     "StudioComponent",
     "Camera",
-    "Native NetWork"
+    "Native NetWork",
+    "Geom Utils",
+    "3D",
+    "3D Primitive",
+    "3D Physics/cannon.js",
+    "3D Physics/Builtin",
+    "3D Particle"
   ],
-  "fit-height": false,
+  "fit-height": true,
   "fit-width": true,
   "group-list": [
     "default"
@@ -45,5 +51,8 @@
       "enable": false
     }
   },
-  "assets-sort-type": "name"
+  "assets-sort-type": "name",
+  "migrate-history": [
+    "cloud-function"
+  ]
 }

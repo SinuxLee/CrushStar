@@ -1,10 +1,15 @@
 {
-  "ver": "2.2.0",
+  "ver": "2.3.4",
   "uuid": "fbc65940-101f-4c87-b9b6-42fe76843b12",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
   "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 49,
+  "height": 39,
+  "platformSettings": {},
   "subMetas": {
     "huangguan": {
       "ver": "1.0.4",
